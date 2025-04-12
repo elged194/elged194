@@ -10,7 +10,7 @@
 <br/>
 <p align="center">
   <!-- Tech Logos -->
-  <img src="https://skillicons.dev/icons?i=html,css,scss,js,ts,react,nextjs,tailwind,bootstrap,jquery,redux,firebase,git,github" width="450"/>
+  <img src="https://skillicons.dev/icons?i=html,css,scss,js,ts,react,nextjs,tailwind,bootstrap,jquery,redux,firebase,git,github" width="500"/>
 </p>
 
 ---
