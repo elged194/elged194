@@ -51,9 +51,10 @@
 
 ### 🚀 Featured Projects- 
 - [**Amtalek.com**](https://www.amtalek.com/en) – A comprehensive **CRM system** and **real estate platform** built to enhance business operations.  
-- [**Amtalek CRM System**](https://www.amtalek.com/en) – Real estate + team management system
-- [**Chair Location**](https://www.chairlocation.com/en) – Booking platform for Saudi workspaces   
-- [**Bridge Uni**](https://uni-bridge.vercel.app/study-abroad) – Educational platform  
+- [**Amtalek CRM System**](https://www.amtalek.com) – Real estate + team management system
+- [**Chair Location**](https://www.chairlocation.com) – Booking platform for Saudi workspaces   
+- [**Bridge Uni**](https://uni-bridge.vercel.app) – Educational platform
+- [**Ghali Group**](https://ghali-group-next.vercel.app/) – Educational platform  
 - [**Kemit Brand**](https://kemitbrand-sage.vercel.app/) – Company portfolio site  
 - [**VIX Online Store**](https://elged194.github.io/VIX-Online-Store/) – Clothing store UI  
 - [**Task Management App**](https://new-project-level2.web.app/) – Manage tasks with Firebase  
