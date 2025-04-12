@@ -63,14 +63,4 @@
 Misr Higher Institute of Engineering and Technology  
 2018 – 2022 | Mansoura, Dakahlia
 
----
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=elged194&show_icons=true&theme=react" alt="elged194" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elged194&layout=compact&theme=react" alt="Top Langs" />
-</p>
