@@ -43,10 +43,19 @@
 
 ---
 
-### 🚀 Featured Projects
-
-- [**Amtalek CRM System**](https://www.amtalek.com/en) – Real estate + team management system  
-- [**Chair Location**](https://www.chairlocation.com/en) – Booking platform for Saudi workspaces  
+### 🚀 Featured Projects- [**Amtalek.com**](https://www.amtalek.com/en)  
+  A comprehensive **CRM system** and **real estate platform** built to enhance business operations.  
+  🔹 Key Features:  
+    • Task and team management tools  
+    • Advanced property search functionality  
+    • Fully responsive and optimized for performance  
+    • SEO-friendly structure for better search visibility
+- [**Amtalek CRM System**](https://www.amtalek.com/en) – Real estate + team management system
+- [**Chair Location**](https://www.chairlocation.com/en) – Booking platform for Saudi workspaces
+- 🔹 Key Features:  
+-   • Advanced workspaces search functionality  
+    • Fully responsive and optimized for performance  
+    • SEO-friendly structure for better search visibility   
 - [**Bridge Uni**](https://uni-bridge.vercel.app/study-abroad) – Educational platform  
 - [**Kemit Brand**](https://kemitbrand-sage.vercel.app/) – Company portfolio site  
 - [**VIX Online Store**](https://elged194.github.io/VIX-Online-Store/) – Clothing store UI  
