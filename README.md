@@ -7,10 +7,12 @@
   <a href="mailto:elged194@gmail.com">📧 Email</a>
 </p>
 
+<br/>
 <p align="center">
   <!-- Tech Logos -->
-  <img src="https://skillicons.dev/icons?i=html,css,scss,js,ts,react,nextjs,tailwind,bootstrap,jquery,redux,firebase,git,github" />
+  <img src="https://skillicons.dev/icons?i=html,css,scss,js,ts,react,nextjs,tailwind,bootstrap,jquery,redux,firebase,git,github" width="400"/>
 </p>
+
 ---
 
 ### 👨‍💻 About Me
